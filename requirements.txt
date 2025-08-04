@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+eth_account
+web3
+python-dotenv
